@@ -574,7 +574,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hasPowerup: 0
-  powerupIndicator: {fileID: 1427939658}
+  powerupIndicator: {fileID: 4446131693967519089, guid: c5497424856514b2ba61b78375567988, type: 3}
   powerUpDuration: 5
 --- !u!1 &680832294
 GameObject:
@@ -1391,11 +1391,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
---- !u!1 &1427939658 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1742899641471652, guid: 923deea38dc6a8843b15db7638919c1e, type: 3}
-  m_PrefabInstance: {fileID: 1427939657}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1566607641
 GameObject:
   m_ObjectHideFlags: 0
